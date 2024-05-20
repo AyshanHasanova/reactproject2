@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": "2",
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": "3",
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": "ea98f8ea-213d-448c-8d33-d08edb863b36",
+      "title": "emin",
+      "image": "sss",
+      "price": 33
+    },
+    {
+      "id": "7fa4fd2e-d711-4748-a019-857c24f399ee",
+      "title": "kiko",
+      "image": "data:image/jpeg;base64,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",
+      "price": 23
+    },
+    {
+      "id": "a9b3a434-7610-4415-b875-a461319caee5",
+      "title": "kiko",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIREhUPEREWEBIVFRUSFRgPERAVFxISFRUWFxgXExUYHSggGBolGxUWITEhJikrMC4vFx8zODMsNygtLisBCgoKDg0OGhAQGy0lICYtNS01LSstLS0tLSstLS01Ky0rLS0tLS0tLS0rLS0tLS0tLTU1LS0tMC0tLS0vKy0tLf/AABEIAOEA4QMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAABAUCAwYBB//EAD8QAAIBAgQCBwQIBQIHAAAAAAABAgMRBBIhMQVBBhMiUWFxgTJyobEjM1KRwcLR8AcUgsPhkvEVQmJjc7PS/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAMCAQT/xAAhEQEBAQACAwACAwEAAAAAAAAAAQIDERIhMSJBUVJxMv/aAAwDAQACEQMRAD8A+4gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGvro3tfX8QNgPLnoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACjx91ouTa8y8IHEqWl0r33M6axfbLBV88U/RkuLKXhtRqWXv8AgW8GdlNTqtoPEenWQAAAAAAAAAAAAAAAAAAAAAAAAAAADXOvFbsDYDR/Nw+0viblJAemFWF00ZgCjxWGkm2tLff3lnQqKSTWzVz3Ew5+jImDeVuD815Pf9+JyTp23tZI9MIMzOuAAAAAAAAAAAAAAAAAAAAAAAAAAA8ZCqtWbdlp4E1kGpHQCBOro+18SfhJ3Sd7lfVWjJ2Dei5b/MCfEyMIGYHkldWK/ExtaS3T1/EsTRiIfEBTlzNyIGFla8Hy28mTYMDMAAAAAAAAAAAAAAAAAAAAAAAAj4zFxpRzSehIOF/iLUknRSbs5yuuT7Md1z/yY3rxnbfHny10sKnS2NSFRQg4u0oqWeCSlbRq/czian8QVh81KdCeIndvM8U4J",
+      "price": 23
+    }
+  ]
+}

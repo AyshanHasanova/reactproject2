@@ -1,0 +1,29 @@
+nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 20px 50px;
+}
+.headerBottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.headerBottom ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.headerBottom a{
+    color: black;
+}
+.headerBottom ul li,a{
+    text-decoration: none;
+    list-style-type: none;
+}

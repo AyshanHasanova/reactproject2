@@ -1,0 +1,21 @@
+.cards{
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    gap: 10px;
+}
+.cards img{
+    width: 250px;
+    height: 250px;
+}
+
+.cards h3{
+    font-size: 24px;
+}
+.cards p{
+        font-size: 20px;
+        font-weight: bold;
+        
+}
